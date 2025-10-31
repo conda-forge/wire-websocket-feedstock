@@ -25,7 +25,7 @@ requirements:
     - uv-build
   run:
     - python >=${{ python_min }}
-    - wiredb >=0.4.0,<0.5.0
+    - wiredb >=0.5.0,<0.6.0
     - httpx-ws >=0.8.0
     - anycorn >=0.18.2
 
