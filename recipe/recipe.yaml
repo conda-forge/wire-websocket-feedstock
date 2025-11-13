@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.7.1"
 
 package:
   name: wire-websocket
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/w/wire-websocket/wire_websocket-${{ version }}.tar.gz
-    sha256: e77532b579aa36281ba853598c7713d2ed389f6d79e91f71504f4b378bf4df2e
+    sha256: e4cd1656ff131bd73d6e215104953d4046b7e7d70023f5dec3316780c1889b85
 
 build:
   number: 0
